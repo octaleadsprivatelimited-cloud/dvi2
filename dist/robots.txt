@@ -1,0 +1,10 @@
+# DVI Studios - Robots.txt
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://dvi2.vercel.app/sitemap.xml
+
+# Disallow admin/demo pages from indexing
+Disallow: /demo.html
+
